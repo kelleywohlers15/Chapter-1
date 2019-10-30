@@ -1,0 +1,6 @@
+C:\Users\kw145243\Desktop\C-Sharp-Projects\Chapter 1\Personalinfo\Personalinfo\bin\Debug\Personalinfo.exe.config
+C:\Users\kw145243\Desktop\C-Sharp-Projects\Chapter 1\Personalinfo\Personalinfo\bin\Debug\Personalinfo.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\Chapter 1\Personalinfo\Personalinfo\bin\Debug\Personalinfo.pdb
+C:\Users\kw145243\Desktop\C-Sharp-Projects\Chapter 1\Personalinfo\Personalinfo\obj\Debug\Personalinfo.csproj.CoreCompileInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\Chapter 1\Personalinfo\Personalinfo\obj\Debug\Personalinfo.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\Chapter 1\Personalinfo\Personalinfo\obj\Debug\Personalinfo.pdb
